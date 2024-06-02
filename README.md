@@ -30,6 +30,22 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://image.noelshack.com/fichiers/2024/22/7/1717323433-capture.png"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://image.noelshack.com/fichiers/2024/22/7/1717323505-capturegameover.png"  />
+</div>
+
+###
+
 <h2 align="center">⫸ Contrôles de Base ⫷</h2>
 
 ###
